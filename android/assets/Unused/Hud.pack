@@ -1,0 +1,61 @@
+
+Hud2.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+hud
+  rotate: false
+  xy: 1, 16
+  size: 419, 109
+  orig: 419, 109
+  offset: 0, 0
+  index: -1
+health_bar
+  rotate: false
+  xy: 1, 1
+  size: 293, 13
+  orig: 293, 13
+  offset: 0, 0
+  index: -1
+stamina_bar
+  rotate: false
+  xy: 422, 112
+  size: 293, 13
+  orig: 293, 13
+  offset: 0, 0
+  index: -1
+exp_bar
+  rotate: false
+  xy: 422, 38
+  size: 25, 72
+  orig: 25, 72
+  offset: 0, 0
+  index: -1
+boot_healthbar_empty
+  rotate: false
+  xy: 296, 5
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+boot_healthbar_full_ally
+  rotate: false
+  xy: 717, 116
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+boot_healthbar_full_enemy
+  rotate: false
+  xy: 449, 101
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Mouse
+  rotate: false
+  xy: 449, 69
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

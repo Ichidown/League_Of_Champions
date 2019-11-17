@@ -1,0 +1,33 @@
+
+minions_sprites.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+explosion_blue
+  rotate: false
+  xy: 1, 93
+  size: 540, 90
+  orig: 540, 90
+  offset: 0, 0
+  index: -1
+explosion_red
+  rotate: false
+  xy: 1, 1
+  size: 540, 90
+  orig: 540, 90
+  offset: 0, 0
+  index: -1
+minion_blue
+  rotate: false
+  xy: 543, 93
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
+minion_red
+  rotate: false
+  xy: 543, 1
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
